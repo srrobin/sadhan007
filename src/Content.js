@@ -62,11 +62,11 @@ export const content = {
     image: Hero_person,
     hero_content: [
       {
-        count: "3+",
+        count: "1+",
         text: "Years of Experinse in 3D Animator",
       },
       {
-        count: "10+",
+        count: "2+",
         text: "Projects Worked in my career",
       },
     ],
@@ -76,55 +76,95 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
-        name: "Animation",
-        para: "Lorem ipsum text  dummy",
+        name: "3D Animation",
+        // para: "Lorem ipsum text  dummy",
+        logo: figma,
+      },
+      {
+        name: "3D Character Animation",
+        // para: "Lorem ipsum text  dummy",
+        logo: figma,
+      },
+      {
+        name: "3D Enverionment Desing",
+        // para: "Lorem ipsum text  dummy",
         logo: figma,
       },
       {
         name: "Animation",
-        para: "Lorem ipsum text  dummy",
+        // para: "Lorem ipsum text  dummy",
         logo: figma,
       },
       {
-        name: "Animation",
-        para: "Lorem ipsum text  dummy",
+        name: "3D Modeling",
+        // para: "Lorem ipsum text  dummy",
         logo: figma,
       },
       {
-        name: "Animation",
-        para: "Lorem ipsum text  dummy",
+        name: "Texturing",
+        // para: "Lorem ipsum text  dummy",
         logo: figma,
       },
       {
-        name: "Animation",
-        para: "Lorem ipsum text  dummy",
+        name: "3D Lighting",
+        // para: "Lorem ipsum text  dummy",
         logo: figma,
       },
       {
-        name: "Animation",
-        para: "Lorem ipsum text  dummy",
+        name: "3D Rendering ",
+        // para: "Lorem ipsum text  dummy",
+        logo: figma,
+      },
+      {
+        name: "3D Visualization",
+        // para: "Lorem ipsum text  dummy",
         logo: figma,
       },
     ],
     icon: MdArrowForward,
   },
   services: {
-    title: "Services",
+    title: "Software proficiency",
     subtitle: "WHAT I OFFER",
     service_content: [
       {
-        title: "Web Animation",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Autodesk Maya",
+        // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
         logo: services_logo1,
       },
       {
-        title: "ui Animation",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "V-Ray",
+        // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
         logo: services_logo2,
       },
       {
-        title: "Animation Editing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        title: "Unreal Engine",
+        // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        logo: services_logo3,
+      },
+      {
+        title: "Quixel Suite",
+        // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        logo: services_logo3,
+      },
+      {
+        title: "Substance 3D Painter ",
+        // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        logo: services_logo3,
+      },
+      {
+        title: "Adobe Photoshop",
+        // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        logo: services_logo3,
+      },
+      {
+        title: "Adobe Premiere Pro",
+        // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        logo: services_logo3,
+      },
+      {
+        title: "Adobe After Effects",
+        // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
         logo: services_logo3,
       },
     ],
