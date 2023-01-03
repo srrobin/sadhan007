@@ -4,9 +4,14 @@ import Hero_person from "./assets/images/Hero/person2.png";
 
 import figma from "./assets/images/Skills/figma.png";
 
-import services_logo1 from "./assets/images/Services/logo1.png";
-import services_logo2 from "./assets/images/Services/logo2.png";
-import services_logo3 from "./assets/images/Services/logo3.png";
+import services_logo8 from "./assets/images/Services/aftereffects.png";
+import services_logo1 from "./assets/images/Services/maya.png";
+import services_logo6 from "./assets/images/Services/Photoshop.png";
+import services_logo7 from "./assets/images/Services/premierpro.png";
+import services_logo5 from "./assets/images/Services/pt_appicon_noshadow_512.png";
+import services_logo4 from "./assets/images/Services/Quixel_Suite.png";
+import services_logo3 from "./assets/images/Services/Unreal-symbol.png";
+import services_logo2 from "./assets/images/Services/v-ray-product-22.png";
 
 import project1 from "./assets/images/Projects/img1.png";
 import project2 from "./assets/images/Projects/img2.png";
@@ -72,8 +77,8 @@ export const content = {
     ],
   },
   skills: {
-    title: "Skills",
-    subtitle: "MY TOP SKILLS",
+    title: "MY TOP SKILLS",
+    // subtitle: "MY TOP SKILLS",
     skills_content: [
       {
         name: "3D Animation",
@@ -124,8 +129,8 @@ export const content = {
     icon: MdArrowForward,
   },
   services: {
-    title: "Software proficiency",
-    subtitle: "WHAT I OFFER",
+    title: " SOFTWARE PROFICIENCY ",
+    // subtitle: "WHAT I OFFER",
     service_content: [
       {
         title: "Autodesk Maya",
@@ -145,27 +150,27 @@ export const content = {
       {
         title: "Quixel Suite",
         // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-        logo: services_logo3,
+        logo: services_logo4,
       },
       {
         title: "Substance 3D Painter ",
         // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-        logo: services_logo3,
+        logo: services_logo5,
       },
       {
         title: "Adobe Photoshop",
         // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-        logo: services_logo3,
+        logo: services_logo6,
       },
       {
         title: "Adobe Premiere Pro",
         // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-        logo: services_logo3,
+        logo: services_logo7,
       },
       {
         title: "Adobe After Effects",
         // para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-        logo: services_logo3,
+        logo: services_logo8,
       },
     ],
   },
