@@ -26,7 +26,8 @@ import Hireme_person2 from "./assets/images/Hireme/person2.png";
 
 // import icons from react-icons
 import { BiUser } from "react-icons/bi";
-import { BsInstagram } from "react-icons/bs";
+import { BsInstagram, BsLinkedin } from "react-icons/bs";
+import { FaFacebookSquare } from 'react-icons/fa'
 import { GrMail } from "react-icons/gr";
 import {
   MdArrowForward,
@@ -67,7 +68,7 @@ export const content = {
     image: Hero_person,
     hero_content: [
       {
-        count: "1+",
+        count: "2+",
         text: "Years of Experinse in 3D Animator",
       },
       {
@@ -95,21 +96,21 @@ export const content = {
         // para: "Lorem ipsum text  dummy",
         logo: figma,
       },
-      {
-        name: "Animation",
-        // para: "Lorem ipsum text  dummy",
-        logo: figma,
-      },
-      {
-        name: "3D Modeling",
-        // para: "Lorem ipsum text  dummy",
-        logo: figma,
-      },
-      {
-        name: "Texturing",
-        // para: "Lorem ipsum text  dummy",
-        logo: figma,
-      },
+      // {
+      //   name: "Animation",
+      //   para: "Lorem ipsum text  dummy",
+      //   logo: figma,
+      // },
+      // {
+      //   name: "3D Modeling",
+      //   para: "Lorem ipsum text  dummy",
+      //   logo: figma,
+      // },
+      // {
+      //   name: "Texturing",
+      //   para: "Lorem ipsum text  dummy",
+      //   logo: figma,
+      // },
       {
         name: "3D Lighting",
         // para: "Lorem ipsum text  dummy",
@@ -236,19 +237,29 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "SadhanKirtonia@gmail.com",
+        text: "sadhankirtonia98@gmail.com",
         icon: GrMail,
         link: "mailto:codeaprogram@gmail.com",
       },
       {
-        text: "01827578666",
+        text: "01799739432",
         icon: MdCall,
         link: "https://wa.me/1234567890",
       },
       {
-        text: "Animator",
+        text: "Instagram",
         icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        link: "https://www.instagram.com/sadhan_kirtonia98/",
+      },
+      {
+        text: "Facebook",
+        icon: FaFacebookSquare,
+        link: "https://www.facebook.com/sadhankirtonia98",
+      },
+      {
+        text: "Linkedin",
+        icon: BsLinkedin,
+        link: "https://www.linkedin.com/in/sadhan-kirtonia/",
       },
     ],
   },

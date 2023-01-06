@@ -4,9 +4,9 @@ module.exports = {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
-      Poppins: "Poppins",
-      Paprika: "Paprika",
-      Inria: "Inria Serif",
+      Roboto: "Roboto",
+      // Paprika: "Paprika",
+      // Inria: "Inria Serif",
     },
     container: {
       center: true,
